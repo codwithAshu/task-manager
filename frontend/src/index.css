@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    color: #4CAF50;
+    font-weight: 700;
+  }
+  
+  h3 {
+    color: #333;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+  .list-group-item {
+    font-size: 1.1rem;
+    padding: 10px 15px;
+  }
+  
